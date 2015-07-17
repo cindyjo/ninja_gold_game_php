@@ -1,0 +1,90 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+	font-family: Verdana;
+}
+#wrapper {
+	width: 970px;
+	height: auto;
+/*	overflow: hidden;*/
+}
+#header h2, #header p, #submission form {
+	display: inline-block;
+}
+
+#header {
+	margin-bottom: 20px;
+	padding-top: 10px;
+}
+#header p {
+	height: 24px;
+	width: 100px;
+	padding: 3px 8px;
+	margin-top: 5px;
+	border: 1px solid;
+	font-size: 1.2em;
+}
+
+#header h2 {
+	padding: 5px;
+}
+
+#submission h2 {
+	padding-top: 20px;
+	margin-bottom: 20px;
+	font-size: 1.8em;
+}
+#submission p {
+	margin-bottom: 10px;
+	font-size: 1.2em;
+	height: 55px;
+}
+#submission input {
+	font-size: .85em;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	background-color: black;
+	color: white;
+s
+}
+#submission form {
+	width: 210px;
+	height: 200px;
+	border: 1px solid;
+	text-align: center; 
+	margin-right: 20px;
+	vertical-align: top;
+}
+#submission{
+	margin-bottom: 20px;
+}
+#bottom div {
+	width: 900px;
+	height: 150px;
+	padding: 0px 11px;
+	border: 1px solid;
+	margin-left: 0px;
+	overflow-y: scroll;
+}
+#bottom p {
+	font-size: .8em;
+}
+.red {
+	color: red;
+}
+.green {
+	color: green;
+}
+#bottom {
+	margin-bottom: 20px;
+}
+button {
+	font-size: 1.0em;
+	color: white;
+	background-color: black;
+	width: 70px;
+	height: 30px;
+
+}
+
